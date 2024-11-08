@@ -57,7 +57,8 @@ var sum = first + second;
 /template	Shows all of the templates in the repository. You choose the template to insert. This slash command works for issue templates and a pull request template.
 
 
+alt-test!
+https://octodex.github.com/images/yaktocat.png
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
